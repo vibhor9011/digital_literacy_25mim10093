@@ -1,6 +1,6 @@
 # Digital-literacy-project
 VITYARTHI PROJECT
-# Digital Literacy Portfolio: Student Ambassador Edition
+# Digital Literacy Portfolio: Student Ambassador 
 
 **Name:** Vibhor Srivastava
 
