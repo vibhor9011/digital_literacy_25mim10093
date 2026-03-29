@@ -1,6 +1,7 @@
-For Task 3, I used HackerRank and Google Workspace. First, I knocked out a basic coding challenge on HackerRank. Reading textbooks is the traditional, tried-and-true way to learn computer science theory, but you actually have to write code to get good. HackerRank gives me a hands-on way to practice my syntax and logic for my current classes, rather than just memorizing concepts for exams.
+For Task 3, I used CodeChef to put my theory into practice. Instead of just memorizing syntax to pass an exam, I sat down and worked through some competitive programming problems. I made detailed notes on the logic and edge cases as I went. It’s the perfect balance: you build on that traditional, old-school foundation, but use a modern platform to actually test your skills and see where your code breaks.
 
-Then, I used Google Forms to build a 5-question "Digital Literacy Awareness Quiz" for our batch, making sure to include both multiple-choice and short-answer questions. I linked it to a Google Sheet to easily collect and view the responses. This setup is going to be a lifesaver for my academics. For group projects, emailing files back and forth the old-school way is a complete mess. Using cloud tools like Workspace makes working together on presentations and reports way faster and cleaner. I'll definitely be using this for all my group assignments from now on to keep everything organized.
+After the coding practice, I used Google Workspace to create a 5-question "Digital Literacy Awareness Quiz" for our batch. I built it in Google Forms with a mix of multiple-choice and short answers, and linked it directly to a Google Sheet so all the responses organize themselves automatically.
+Honestly, this setup is a lifesaver.
 
 Digital Literacy Quiz (Google Form): https://forms.gle/coQH9i3CmhGrXexKA
 
